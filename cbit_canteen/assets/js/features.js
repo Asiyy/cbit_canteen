@@ -269,7 +269,7 @@ function customerFooterUI() {
                             <h1 class="sm">Quick Links</h1>
                             <li><a href="index.html">Canteen Home</a></li>
                             <li><a href="our-vision.html">Our Vision</a></li>
-                            <li><a href="https://github.com/rvutd/mit-canteen-site" target="_blank">Git Repository</a></li>
+                            <li><a href="https://github.com/Asiyy/cbit_canteen.git" target="_blank">Git Repository</a></li>
                             <li><a href="https://www.cbit.ac.in/" target="_blank">CBIT Hyd</a></li>
                         </ul>
                     </article>
@@ -322,7 +322,7 @@ function userFooterUI() {
                             <h1 class="sm">Quick Links</h1>
                             <li><a href="client-side.html">Menu</a></li>
                             <li><a href="user-orders.html">Your Orders</a></li>
-                            <li><a href="https://github.com/rvutd/mit-canteen-site" target="_blank">Git Repository</a></li>
+                            <li><a href="https://github.com/Asiyy/cbit_canteen.git" target="_blank">Git Repository</a></li>
                             <li><a href="https://www.cbit.ac.in/" target="_blank">CBIT Hyd</a></li>
                         </ul>
                     </article>
